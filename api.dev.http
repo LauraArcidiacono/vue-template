@@ -1,0 +1,4 @@
+### API response - Set you oun url
+
+GET https://api.sineptica.com.ar/test.php
+Content-Type: application/json
